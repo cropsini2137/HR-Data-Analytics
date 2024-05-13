@@ -1,0 +1,41 @@
+%Pisanka pokolorowana na wzór PacMana
+
+% Define the size of the egg
+width = 200;
+height = 300;
+depth = 100;
+
+% Define the colors for the egg
+colors = [1 1 0; 0 1 1; 1 1 0; 1 0 0; 0 1 0; 0 0 0]; % Magenta, Cyan, Yellow, Red, Green, Blue
+
+% Create a new figure
+figure;
+
+% Draw the egg
+[x,y,z] = ellipsoid(0,0,0,width/2,height/2,depth/2,50);
+c = zeros(size(x));
+for i = 1:length(colors)
+    c(x>=0 & y>=0 & z>=0 & mod(i-1,2)==0) = i;
+    c(x>=0 & y>=0 & z>=0 & mod(i-1,2)==1) = i+1;
+end
+surf(x,y,z,c,'EdgeColor','none');
+colormap(colors);
+
+% Add some decorations
+hold on;
+theta = linspace(0,2*pi, 30);
+r = linspace(0.5, 1, 30);
+[x,y,z] = pol2cart(theta, r*height/2, zeros(size(r)));
+plot3(x,y,z,'k-','LineWidth',2);
+
+% Set the view and lighting
+view(45,30);
+light('Position',[0 0 1],'Style','infinite');
+lighting gouraud;
+
+% Set the axis limits and labels
+axis equal;
+axis([-width/2 width/2 -height/2 height/2 -depth/2 depth/2]);
+xlabel('X');
+ylabel('Y');
+zlabel('Z');
