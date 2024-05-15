@@ -1,0 +1,3 @@
+# exclude all files and folder in the data folder
+
+data/**
