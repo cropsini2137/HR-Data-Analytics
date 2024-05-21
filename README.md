@@ -1,5 +1,5 @@
 # ProjektAnalitiks
-team <span style="color:yellow">rzulci vabank</span>
+team rzulci vabank
 ## Team members
 ✰ Ryan Jabłoński
 ✰ Maciej Mądrzyk
@@ -41,6 +41,11 @@ The dataset contains survey responses from individuals about their skills and co
 - `Data Visualization`
 - `Big Data Technologies`
 - `Domain Expertise` (e.g., FinTech, HealthTech, FashionTech, etc.)
+
+As a part of analysis, we want to test / implement such parts like:
+Descriptive Statistics
+Summary Statistics: Calculate the mean, median, mode, and standard deviation for each skill category to understand the overall distribution of skills.
+Frequency Distribution: Determine the frequency of each skill level across all respondents to identify the most common skill levels.
 
 ### HR Benefits
 
