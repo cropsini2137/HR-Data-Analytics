@@ -1,5 +1,5 @@
 # HR Clustering Project
-team rzulci vabank
+team rzulci vabank 🟨
 
 ## Team members 👥
 ✰ Ryan Jabłoński
