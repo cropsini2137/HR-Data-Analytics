@@ -57,7 +57,9 @@ As a part of analysis, we want to check or implement such parts like:
 ### Clustering analysis ✨
 **k-means clustering** - Grouping respondents into clusters based on their skill sets to identify distinct profiles or archetypes within the data.
 
-**Hierarchical clustering** - Use hierarchical clustering to visualize how respondents can be grouped based on skill similarities.
+**Hierarchical clustering** - Using hierarchical clustering to visualize how respondents can be grouped based on skill similarities.
+
+**Regression modelling** - 
 
 ### HR Benefits 👥
 
