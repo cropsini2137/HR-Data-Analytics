@@ -1,5 +1,8 @@
-# HR Clustering Project
+# HR Data Analytics
 team rzulci vabank 🟨
+
+![DALL·E 2024-05-31 00 03 16 - A vibrant logo featuring a wealthy culturist pope  The pope should have a muscular build similar to a bodybuilder, wearing traditional papal attire wi](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/526ecd90-000a-4b5a-b6f7-fb04bddad6ca)
+
 
 ## Team members 👥
 ★ Ryan Jabłoński
