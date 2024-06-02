@@ -12,6 +12,9 @@ team rzulci vabank 🟨
 
 This project is focused on analyzing HR data collected during a survey about its respondents skills, shared within the context of **Wrocław AI Team** - an initiative designed to facilitate the execution of *AI, Data Science, and Business Intelligence (BI)* projects. The primary goal of this project is to create a practical learning opportunity, where individuals with shared interests collaborate and learn from each other.
 
+- Folder **data** stores raw data files in .csv form used on different stages of analysis.
+- In **notebooks** folder there are separate notebooks for each stage of analysis as well as the full project. 
+
 ---
 ### Objectives 🎯
 
@@ -55,14 +58,26 @@ As a part of analysis, we want to check or implement such parts like:
 **Skill correlation** - Analyze the correlation between different skills to identify patterns and relationships.
 
 ### Clustering analysis ✨
-**k-means clustering** - Grouping respondents into clusters based on their skill sets to identify distinct profiles or archetypes within the data.
+**k-means clustering** - Grouping respondents into clusters based on their skill sets helped to identify distinct profiles / archetypes within the data.
 
-**Hierarchical clustering** - Using hierarchical clustering to visualize how respondents can be grouped based on skill similarities.
+**Hierarchical clustering** - hierarchical clustering was used to visualize how respondents can be grouped based on skill similarities.
 
-**Regression modelling** - 
+Other scientific techniques used in this project are **Regression modelling**, **Data imputation**, and **PCA analysis**.
 
 ### HR Benefits 👥
 
 This approach is not only beneficial for team formation but also offers advantages for Human Resources (HR) departments. It provides a data-driven method to understand the skill distribution within the organization, improving recruitment processes, talent management, and personal development strategies.
 
 By identifying distinct groups within the community, the project aims to improve decision-making in team formation, ensuring that each team has the right mix of skills and competencies to tackle real-world business challenges.
+
+### Project summary 📋
+
+**Data Cleaning** part has made significant changes to the dataset, leaving only rows and columns with non-missing values to ensure quality presentation of data on further stages. This process also helped with uncluttering visualisations that were made on later stages.
+
+In chapter "**Exploratory Data Analysis**" we performed a series of basic data exploration and visualization techniques. After each analysis there is a visualization and simple summary to present insights that were collected.
+
+**Advanced EDA** section covered some advanced techniques for data exploration and visualisation, such as: **heatmap** (for visualising correlation and missing values), simple **bar charts** and **column charts**, **box-plots**, **scatter plots**, **violin plots**, **stacked column plots**, **line plots** or **dendrogram**. 
+
+It also covered some basic forms of scientific approach to data in forms of: **clustering**, **outlier detection**, **data imputation**, **PCA** and **regression analysis**.
+
+
