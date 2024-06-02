@@ -37,13 +37,10 @@ In order to achieve desired insights from the data provided, we decided to use:
 - **VS Code 👨🏻‍💻** - code development and version control integration.
 
 The dataset contains survey responses from individuals about their skills and competencies. It includes the following key columns:
-- `Programming: R`
-- `Programming: Python`
-- `Programming: SQL`
-- `Machine learning`
-- `Deep learning`
-- `Data visualization`
-- `Big Data technologies`
+- `Programming: Python, R, SQL`
+- `Data Science: Machine learning / NLP / AI`
+- `Cloud platforms: AWS, Azure, GCP`
+- `BI tools`
 - `Domain expertise` (e.g., FinTech, HealthTech, FashionTech, etc.)
 
 As a part of analysis, we want to check or implement such parts like:
