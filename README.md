@@ -2,7 +2,7 @@
 team rzulci vabank 🟨
 
 ## Team members 👥
-✰ Ryan Jabłoński
+★ Ryan Jabłoński
 ✰ Maciej Mądrzyk
 ✰ Mikołaj Stojek
 
@@ -30,7 +30,7 @@ We'll employ clustering algorithms to determine the most appropriate method for 
 
 In order to achieve desired insights from the data provided, we decided to use:
 - **Python 🐍** as the primary programming language for data analysis and clustering,
-- **Pandas 🐼🐼🐼** - for data manipulation and analysis,
+- **Pandas 🐼🐼** - for data manipulation and analysis,
 - **NumPy 🔢** - for numerical operations,
 - **Matplotlib and Seaborn 📈📊** - for data visualization,
 - **Scikit-learn 🔬** - for implementing clustering algorithms and evaluation metrics,
@@ -48,21 +48,21 @@ The dataset contains survey responses from individuals about their skills and co
 
 As a part of analysis, we want to check or implement such parts like:
 
-### Descriptive statistics
+### Descriptive statistics 📝
 
 **Summary statistics** - Calculating basic statistics for each skill category to understand the overall distribution of skills.
 
 **Frequency distribution** - Determine the frequency of each skill level across all respondents to identify the most common skill levels.
-### Correlation analysis
+### Correlation analysis *️⃣
 
 **Skill correlation** - Analyze the correlation between different skills to identify patterns and relationships.
 
-### Clustering analysis
+### Clustering analysis ✨
 **k-means clustering** - Grouping respondents into clusters based on their skill sets to identify distinct profiles or archetypes within the data.
 
 **Hierarchical clustering** - Use hierarchical clustering to visualize how respondents can be grouped based on skill similarities.
 
-### HR Benefits
+### HR Benefits 👥
 
 This approach is not only beneficial for team formation but also offers advantages for Human Resources (HR) departments. It provides a data-driven method to understand the skill distribution within the organization, improving recruitment processes, talent management, and personal development strategies.
 
