@@ -41,6 +41,17 @@ In order to achieve desired insights from the data provided, we decided to use:
 - **Scikit-learn & Scipy 🔬** - for implementing clustering algorithms and evaluation metrics,
 - **VS Code 👨🏻‍💻** - code development and version control integration.
 
+#### Requirements ⚙️
+You can find the requirements.txt file attached in the main repository folder. Here are the essential libraries needed to launch the notebook's content:
+
+ipywidgets
+matplotlib==3.6.3
+numpy==1.24.0
+pandas==1.5.3
+seaborn==0.11.2
+scipy==1.9.3
+scikit-learn==1.1.3
+
 The dataset contains survey responses from individuals about their skills and competencies. It includes the following key columns:
 - `Programming: Python, R, SQL`
 - `Data Science: Machine learning / NLP / AI`
