@@ -14,8 +14,8 @@ team rzulci vabank 🟨
 
 This project is focused on analyzing HR data collected during a survey about its respondents skills, shared within the context of **Wrocław AI Team** - an initiative designed to facilitate the execution of *AI, Data Science, and Business Intelligence (BI)* projects. The primary goal of this project is to create a practical learning opportunity, where individuals with shared interests collaborate and learn from each other.
 
-- Folder **data** stores raw data files in .csv form used on different stages of analysis.
-- In **notebooks** folder there are separate notebooks for each stage of analysis as well as the full project. 
+- Folder **data** stores raw data files in .csv form used on different stages of analysis,
+- In **notebooks** folder there are separate notebooks for each stage of analysis.
 
 ---
 ### Objectives 🎯
