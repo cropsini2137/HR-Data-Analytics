@@ -26,7 +26,7 @@ It also focuses on enhancing team management by leveraging data on declared skil
 
 A significant objective is to develop participants' skills in using tools such as GitHub, VS Code, and programming in Python. Additionally, the project aims to teach essential Data Science skills.
 
-### Methodology 📚
+### Requirements and methodology 📚
 
 To achieve the project's objectives, we will employ various data analysis and clustering techniques, which are essential in extracting valuable insights from the dataset.
 We will start with exploratory data analysis, including descriptive statistics and visualisation techniques.
@@ -38,7 +38,7 @@ In order to achieve desired insights from the data provided, we decided to use:
 - **Pandas 🐼🐼** - for data manipulation and analysis,
 - **NumPy 🔢** - for numerical operations,
 - **Matplotlib and Seaborn 📈📊** - for data visualization,
-- **Scikit-learn 🔬** - for implementing clustering algorithms and evaluation metrics,
+- **Scikit-learn & Scipy 🔬** - for implementing clustering algorithms and evaluation metrics,
 - **VS Code 👨🏻‍💻** - code development and version control integration.
 
 The dataset contains survey responses from individuals about their skills and competencies. It includes the following key columns:
