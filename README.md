@@ -14,6 +14,7 @@ team rzulci vabank 🟨
 
 This project is focused on analyzing HR data collected during a survey about its respondents skills, shared within the context of **Wrocław AI Team** - an initiative designed to facilitate the execution of *AI, Data Science, and Business Intelligence (BI)* projects. The primary goal of this project is to create a practical learning opportunity, where individuals with shared interests collaborate and learn from each other.
 
+This project data is stored within folders:
 - Folder **data** stores raw data files in .csv form used on different stages of analysis,
 - In **notebooks** folder there are separate notebooks for each stage of analysis.
 
@@ -53,7 +54,7 @@ seaborn==0.11.2
 scipy==1.9.3
 scikit-learn==1.1.3
 
-The dataset contains survey responses from individuals about their skills and competencies. It includes the following key columns:
+The dataset size is 37 columns, 59 rows. It contains survey responses from individuals about their skills and competencies. It includes columns that can be further grouped into categories as such:
 - `Programming: Python, R, Bash, CLI`
 - `Data Science: ML / NLP / AI`
 - `Cloud platforms: AWS / Azure / GCP`
