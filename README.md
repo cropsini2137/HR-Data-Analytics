@@ -82,7 +82,7 @@ As a part of analysis, we want to check or implement such parts like:
 **Summary statistics** - Calculating basic statistics for each skill category to understand the overall distribution of skills.
 
 **Frequency distribution** - Determine the frequency of each skill level across all respondents to identify the most common skill levels.
-### Correlation analysis *️⃣
+#### Correlation analysis *️⃣
 
 **Skill correlation** - Analyze the correlation between different skills to identify patterns and relationships.
 
