@@ -4,7 +4,7 @@ team rzulci vabank 🟨
 ![DALL·E 2024-05-31 00 03 16 - A vibrant logo featuring a wealthy culturist pope  The pope should have a muscular build similar to a bodybuilder, wearing traditional papal attire wi](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/fb4fefd1-19b8-4f54-ae77-48b58fb3cdf4)
 
 - [Team members 👥](#team-members-)
-- [General Description 📙](#general-description-)
+- [General description 📙](#general-description-)
 - [Objectives 🎯](#objectives-)
 - [Requirements and methodology 📚](#requirements-and-methodology-)
 - [Project summary 📋](#project-summary-)
@@ -15,15 +15,27 @@ team rzulci vabank 🟨
 ✰ Maciej Mądrzyk
 ✰ Mikołaj Stojek
 
-## Project Overview
+## Project overview
 
-### General Description 📙
+### General description 📙
 
 This project is focused on analyzing HR data collected during a survey about its respondents skills, shared within the context of **Wrocław AI Team** - an initiative designed to facilitate the execution of *AI, Data Science, and Business Intelligence (BI)* projects. The primary goal of this project is to create a practical learning opportunity, where individuals with shared interests collaborate and learn from each other.
 
 This project data is stored within folders:
 - Folder **data** stores raw data files in .csv form used on different stages of analysis,
 - In **notebooks** folder there are separate notebooks for each stage of analysis.
+
+The dataset size is 37 columns, 59 rows. It contains survey responses from individuals about their skills and competencies. It includes columns that can be further grouped into categories as such:
+- `ID` - unique identifier for each entry,
+- `W jaki sposób chcesz uczestniczyć w Community?` - response on how the participant wants to engage in the community,
+Skillset columns:
+- `Programming: Python, R, Bash, CLI`,
+- `Data Science: ML / NLP / AI`,
+- `Cloud platforms: AWS / Azure / GCP`,
+- `Databases: SQL / NoSQL`,
+- `BI tools`,
+- `Soft skills`,
+- `Domain expertise` (e.g., FinTech, HealthTech, FashionTech, etc.)
 
 ---
 ### Objectives 🎯
@@ -60,15 +72,6 @@ pandas==1.5.3
 seaborn==0.11.2
 scipy==1.9.3
 scikit-learn==1.1.3
-
-The dataset size is 37 columns, 59 rows. It contains survey responses from individuals about their skills and competencies. It includes columns that can be further grouped into categories as such:
-- `Programming: Python, R, Bash, CLI`
-- `Data Science: ML / NLP / AI`
-- `Cloud platforms: AWS / Azure / GCP`
-- `Databases: SQL / NoSQL`
-- `BI tools`
-- `Soft skills`
-- `Domain expertise` (e.g., FinTech, HealthTech, FashionTech, etc.)
 
 As a part of analysis, we want to check or implement such parts like:
 
