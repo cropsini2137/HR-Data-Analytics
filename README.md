@@ -25,7 +25,7 @@ This project data is stored within folders:
 - Folder **data** stores raw data files in .csv form used on different stages of analysis,
 - In **notebooks** folder there are separate notebooks for each stage of analysis.
 
-The dataset size is 37 columns, 59 rows. It contains survey responses from individuals about their skills and competencies. It includes columns that can be further grouped into categories as such:
+The dataset size after cleaning is 37 columns, 59 rows. It contains survey responses from individuals about their skills and competencies. It includes columns that can be further grouped into categories as such:
 - `ID` - unique identifier for each entry,
 - `W jaki sposób chcesz uczestniczyć w Community?` - response on how the participant wants to engage in the community,
 Skillset columns:
