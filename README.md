@@ -59,7 +59,7 @@ In order to achieve desired insights from the data provided, we decided to use:
 - **NumPy 🔢** - for numerical operations,
 - **Matplotlib and Seaborn 📈📊** - for data visualization,
 - **Scikit-learn & Scipy 🔬** - for implementing clustering algorithms and evaluation metrics,
-- **VS Code 👨🏻‍💻** - code development and version control integration.
+- **VS Code & Git 👨🏻‍💻** - code development and version control integration.
 
 #### Requirements ⚙️
 You can find the requirements.txt file attached in the main repository folder. Here are the essential libraries needed to launch the notebook's content:
