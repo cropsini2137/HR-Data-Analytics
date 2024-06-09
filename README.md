@@ -63,7 +63,7 @@ In order to achieve desired insights from the data provided, we decided to use:
 - **Scikit-learn & Scipy 🔬** - for implementing clustering algorithms and evaluation metrics,
 - **VS Code & Git 👨🏻‍💻** - code development and version control integration.
 
-#### Requirements ⚙️
+### Requirements ⚙️
 You can find the requirements.txt file attached in the main repository folder. Here are the essential libraries needed to launch the notebook's content:
 
 ipywidgets
@@ -77,7 +77,7 @@ scikit-learn==1.1.3
 
 As a part of analysis, we want to check or implement such parts like:
 
-### Descriptive statistics 📝
+#### Descriptive statistics 📝
 
 **Summary statistics** - Calculating basic statistics for each skill category to understand the overall distribution of skills.
 
@@ -86,14 +86,14 @@ As a part of analysis, we want to check or implement such parts like:
 
 **Skill correlation** - Analyze the correlation between different skills to identify patterns and relationships.
 
-### Clustering analysis ✨
+#### Clustering analysis ✨
 **k-means clustering** - Grouping respondents into clusters based on their skill sets helped to identify distinct profiles / archetypes within the data.
 
 **Hierarchical clustering** - hierarchical clustering was used to visualize how respondents can be grouped based on skill similarities.
 
 Other scientific techniques used in this project are **Regression modelling**, **Data imputation**, and **PCA analysis**.
 
-### HR Benefits 👥
+#### HR Benefits 👥
 
 This approach is not only beneficial for team formation but also offers advantages for Human Resources (HR) departments. It provides a data-driven method to understand the skill distribution within the organization, improving recruitment processes, talent management, and personal development strategies.
 
