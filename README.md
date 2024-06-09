@@ -30,7 +30,7 @@ This project data is stored within folders:
 The dataset size after cleaning is 37 columns, 59 rows. It contains survey responses from individuals (those willing to actively participate in community) about their skills and competencies. It includes columns that can be further grouped into categories as such:
 - `ID` - unique identifier for each entry,
 - `W jaki sposób chcesz uczestniczyć w Community?` - response on how the participant wants to engage in the community,
-Skillset columns:
+Skillset columns include five types of values, ranging from 0.0 to 4.0. :
 - `Programming: Python, R, Bash, CLI`,
 - `Data Science: ML / NLP / AI`,
 - `Cloud platforms: AWS / Azure / GCP`,
@@ -42,7 +42,7 @@ Skillset columns:
 ---
 ### Objectives 🎯
 
-The main objective is aimed at improving team management by utilizing data on the declared skills and competencies of individuals willing to participate in projects related to *Data Science / BI / Data Analytics* topics. By analyzing survey responses and clustering respondents based on their skills, the project aims to provide valuable insights that will help project founders form effective teams.
+The main objective is aimed at improving team management by utilizing data on the declared skills and competencies of individuals willing to participate in projects related to *Data Science / BI / Data Analytics* topics. By analyzing survey responses and clustering respondents based on their skills, the project aims to provide valuable insights that will help project founders form effective teams. In short, this analysis focuses on creating the strongest groups, with the adjustable group creator implemented at the end of the notebook **03_Advanced_EDA**.
 
 It also focuses on enhancing team management by leveraging data on declared skills and competencies of individuals eager to participate in AI, Data Science, and Business Intelligence (BI) projects. By analyzing survey responses and clustering respondents based on their skills, we aim to provide valuable insights that assist project founders in forming effective teams.
 
