@@ -6,7 +6,7 @@ team rzulci vabank 🟨
 - [Team members 👥](#team-members-)
 - [General Description 📙](#general-description-)
 - [Objectives 🎯](#objectives-)
-- [Methodology 📚](#methodology-)
+- [Requirements and methodology 📚](#requirements-and-methodology-)
 - [Project summary 📋](#project-summary-)
 - [License 🧾](#license-)
 
@@ -104,4 +104,7 @@ In chapter "**Exploratory Data Analysis**" we performed a series of basic data e
 
 It also covered some basic forms of scientific approach to data in forms of: **clustering**, **outlier detection**, **data imputation**, **PCA** and **regression analysis**.
 
+### License 🧾
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
 
