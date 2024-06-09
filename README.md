@@ -45,6 +45,7 @@ In order to achieve desired insights from the data provided, we decided to use:
 You can find the requirements.txt file attached in the main repository folder. Here are the essential libraries needed to launch the notebook's content:
 
 ipywidgets
+ipython
 matplotlib==3.6.3
 numpy==1.24.0
 pandas==1.5.3
@@ -53,10 +54,12 @@ scipy==1.9.3
 scikit-learn==1.1.3
 
 The dataset contains survey responses from individuals about their skills and competencies. It includes the following key columns:
-- `Programming: Python, R, SQL`
-- `Data Science: Machine learning / NLP / AI`
-- `Cloud platforms: AWS, Azure, GCP`
+- `Programming: Python, R, Bash, CLI`
+- `Data Science: ML / NLP / AI`
+- `Cloud platforms: AWS / Azure / GCP`
+- `Databases: SQL / NoSQL`
 - `BI tools`
+- `Soft skills`
 - `Domain expertise` (e.g., FinTech, HealthTech, FashionTech, etc.)
 
 As a part of analysis, we want to check or implement such parts like:
@@ -85,7 +88,7 @@ By identifying distinct groups within the community, the project aims to improve
 
 ### Project summary 📋
 
-**Data Cleaning** part has made significant changes to the dataset, leaving only rows and columns with non-missing values to ensure quality presentation of data on further stages. This process also helped with uncluttering visualisations that were made on later stages.
+**Data cleaning** part has made significant changes to the dataset, leaving only rows and columns with non-missing values to ensure quality presentation of data on further stages. This process also helped with uncluttering visualisations that were made on later stages.
 
 In chapter "**Exploratory Data Analysis**" we performed a series of basic data exploration and visualization techniques. After each analysis there is a visualization and simple summary to present insights that were collected.
 
