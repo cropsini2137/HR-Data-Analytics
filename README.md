@@ -3,6 +3,13 @@ team rzulci vabank 🟨
 
 ![DALL·E 2024-05-31 00 03 16 - A vibrant logo featuring a wealthy culturist pope  The pope should have a muscular build similar to a bodybuilder, wearing traditional papal attire wi](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/fb4fefd1-19b8-4f54-ae77-48b58fb3cdf4)
 
+- [Team members 👥](#team-members-)
+- [General Description 📙](#general-description-)
+- [Objectives 🎯](#objectives-)
+- [Methodology 📚](#methodology-)
+- [Project summary 📋](#project-summary-)
+- [License 🧾](#license-)
+
 ## Team members 👥
 ★ Ryan Jabłoński
 ✰ Maciej Mądrzyk
