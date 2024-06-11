@@ -9,6 +9,7 @@ team rzulci vabank 🟨
 - [General description 📙](#general-description-)
 - [Objectives 🎯](#objectives-)
 - [Requirements and methodology 📚](#requirements-and-methodology-)
+- [Conclusions and visualizations 📊](#conclusions-and-visualizations-)
 - [Project summary 📋](#project-summary-)
 - [License 🧾](#license-)
 
@@ -98,6 +99,10 @@ Other scientific techniques used in this project are **Regression modelling**, *
 This approach is not only beneficial for team formation but also offers advantages for Human Resources (HR) departments. It provides a data-driven method to understand the skill distribution within the organization, improving recruitment processes, talent management, and personal development strategies.
 
 By identifying distinct groups within the community, the project aims to improve decision-making in team formation, ensuring that each team has the right mix of skills and competencies to tackle real-world business challenges.
+
+### Conclusions and visualizations 📊
+
+
 
 ### Project summary 📋
 
