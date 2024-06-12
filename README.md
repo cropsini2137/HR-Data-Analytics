@@ -110,35 +110,38 @@ By identifying distinct groups within the community, the project aims to improve
 
 ### Conclusions and visualizations 📊
 
-**Bar plot** presents percentage values for each type of the participancy in the data community. 
+This heatmap visualizes **missing values** in the dataset. There are significant missing values across several columns, with some columns having more gaps than others. We dealt with them by removing rows and columns with over 25% data missing. The data with missing values will be irrelevant in context of our analysis, because missing values are there because of incomplete surveys and they would skew results of the analysis. Deleted rows and columns do not have a significant impact on the accuracy of the outcome.
+![MissingValues](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/0b68da66-b999-4cc9-b848-f360d1e721c1)
 
+**Bar plot** presents percentage values for each type of the participancy in the data community. 
+![output](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/8f43def4-7f6d-4f11-96bf-472a03cec622)
 
 **Boxplots** represent range of surveyees' abilities
-
+![boxplots](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/c1c682ae-c321-4a64-b8ab-9a396ca5c42f)
 
 **Combo plots** display the same data with simpler visualization
-
+![histogramsy](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/23225e00-3d29-463c-a2cb-d8008c6c0a56)
 
 **Correlation plot** visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
-
+![kolerkejesyzn](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/fc176b8b-adca-4699-8336-078056086ef9)
 
 **Dendogram** images the hierarchical clustering of various data competencies. 
+![drzewogram](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/60b6d45a-7296-4bde-8b70-edff4f4d4c48)
 
-
-**Stacked column plot** represents distribution of respondents prowess. The one below shows selected 15 most popular skills.
-
+**Stacked column plot** represents distribution of respondents prowess.
+![staked kolum plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/3c3f5286-1a40-49fe-bd45-7115fccb12ec)
 
 **Word cloud** clusters skills of surveyees and visually aid to differentiate the most popular ones from the least popular ones.
-
+![klaund](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/1bd351b2-c38a-4b5d-b73e-02d3ac3a68bc)
 
 **PCA analysis** groups data into categories.
-
+![klasta](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/87c9b8b3-06ba-4c37-a0c2-47b302fb461d)
 
 **Violin plots** illustrate the distribution of proficiency levels across different clusters for various competencies. Each plot combines a box plot and a density plot, showing the range, median, and distribution shape of proficiency scores within each cluster.
-
+![waginczela](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/f3196865-cacd-4917-bc0f-23117ae808ea)
 
 **Heatmap** represents the data and surveyees' abilities.
-
+![kategoryzoiwane](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/7dd626b1-0fe7-4388-81e3-b1bc471a1d0b)
 
 **Grouping tool** is used to sort surveyees in the optimal way using the parameters selected by a user.
 
