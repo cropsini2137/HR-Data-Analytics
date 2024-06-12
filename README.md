@@ -125,7 +125,10 @@ This heatmap visualizes **missing values** in the dataset. There are significant
 **Correlation plot** visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
 ![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e4760483-7bd9-4678-a6f0-736f3d861664)
 
-**Dendogram** images the hierarchical clustering of various data competencies. 
+**Elbow method** shows the optimal k value for clustering, essential before plotting a dendrogram.
+![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/22fc5561-3bf2-4abb-b554-f2850bfe41df)
+
+**Dendrogram** images the hierarchical clustering of various data competencies. 
 ![drzewogram](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/60b6d45a-7296-4bde-8b70-edff4f4d4c48)
 
 **Stacked column plot** represents distribution of respondents prowess.
