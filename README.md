@@ -1,7 +1,7 @@
 # HR Data Analytics
 team rzulci vabank 🟨
 
-![DALL·E 2024-05-31 00 03 16 - A vibrant logo featuring a wealthy culturist pope  The pope should have a muscular build similar to a bodybuilder, wearing traditional papal attire wi-modified](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0d794bff-1782-46b7-9780-584816ff55f3)
+![DALL·E 2024-05-31 00 03 16 - A vibrant logo featuring a wealthy culturist pope  The pope should have a muscular build similar to a bodybuilder, wearing traditional papal attire wi](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/ea3a6ee4-3bdd-4100-afdd-f68bfa2f386f)
 
 ## Project contents
 
@@ -114,7 +114,7 @@ This heatmap visualizes **missing values** in the dataset. There are significant
 ![MissingValues](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/0b68da66-b999-4cc9-b848-f360d1e721c1)
 
 **Bar plot** presents percentage values for each type of the participancy in the data community. 
-![output](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/8f43def4-7f6d-4f11-96bf-472a03cec622)
+![activity_type](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/15358707-bf3b-46c7-bfbc-ea5ae0486d9d)
 
 **Boxplots** represent range of surveyees' abilities
 ![boxplots](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/c1c682ae-c321-4a64-b8ab-9a396ca5c42f)
