@@ -110,7 +110,7 @@ By identifying distinct groups within the community, the project aims to improve
 
 ### Conclusions and visualizations 📊
 
-This heatmap visualizes **missing values** in the dataset. There are significant missing values across several columns, with some columns having more gaps than others. We dealt with them by removing rows and columns with over 25% data missing. The data with missing values will be irrelevant in context of our analysis, because missing values are there because of incomplete surveys and they would skew results of the analysis. Deleted rows and columns do not have a significant impact on the accuracy of the outcome.
+This heatmap visualizes **missing values** in the dataset. There are significant missing values across several columns, with some columns having more gaps than others. We dealt with them by removing rows and columns with over 25% data missing. The data with missing values will be irrelevant in context of our analysis, because missing values are there because of incomplete surveys and they would skew results of the analysis. Deleted rows and columns would not bring any positive impact on the accuracy of further outcomes.
 ![missing](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/1dcaf219-fa28-47a4-9f9a-4d5afb3c74b3)
 
 **Bar plot** presents percentage values for each type of the participancy in the data community. 
