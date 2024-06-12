@@ -147,7 +147,7 @@ The plot below represents top 15 skills, including only responses from 2 to 4.
 ![waginczela](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/f3196865-cacd-4917-bc0f-23117ae808ea)
 
 **Heatmap** represents the data and surveyees' abilities.
-![kategoryzoiwane](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/7dd626b1-0fe7-4388-81e3-b1bc471a1d0b)
+![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f648ae39-e20a-42e5-b5d1-e2794de5ac81)
 
 **Grouping tool** is used to sort surveyees in the optimal way using the parameters selected by a user.
 
