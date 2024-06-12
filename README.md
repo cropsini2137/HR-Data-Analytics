@@ -132,7 +132,7 @@ This heatmap visualizes **missing values** in the dataset. There are significant
 ![drzewogram](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/60b6d45a-7296-4bde-8b70-edff4f4d4c48)
 
 **Stacked column plot** represents distribution of respondents prowess.
-![staked kolum plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/3c3f5286-1a40-49fe-bd45-7115fccb12ec)
+![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f8524e05-adb9-4699-8344-fedb66e76614)
 
 **Word cloud** clusters skills of surveyees and visually aid to differentiate the most popular ones from the least popular ones.
 ![klaund](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/1bd351b2-c38a-4b5d-b73e-02d3ac3a68bc)
