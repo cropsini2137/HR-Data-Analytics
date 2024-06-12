@@ -131,7 +131,7 @@ This heatmap visualizes **missing values** in the dataset. There are significant
 **Dendrogram** images the hierarchical clustering of various data competencies. 
 ![drzewogram](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/60b6d45a-7296-4bde-8b70-edff4f4d4c48)
 
-**Stacked column plot** represents distribution of respondents prowess.
+**Stacked column plot** represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses.
 ![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f8524e05-adb9-4699-8344-fedb66e76614)
 
 The plot below represents top 15 skills, including only responses from 2 to 4.
