@@ -5,13 +5,21 @@ team rzulci vabank 🟨
 
 ## Project contents
 
-- [Team members 👥](#team-members-)
-- [General description 📙](#general-description-)
-- [Objectives 🎯](#objectives-)
-- [Requirements and methodology 📚](#requirements-and-methodology-)
-- [Conclusions and visualizations 📊](#conclusions-and-visualizations-)
-- [Project summary 📋](#project-summary-)
-- [License 🧾](#license-)
+- [HR Data Analytics](#hr-data-analytics)
+  - [Project contents](#project-contents)
+  - [Team members 👥](#team-members-)
+  - [Project overview](#project-overview)
+    - [General description 📙](#general-description-)
+    - [Objectives 🎯](#objectives-)
+    - [Requirements and methodology 📚](#requirements-and-methodology-)
+    - [Requirements ⚙️](#requirements-️)
+      - [Descriptive statistics 📝](#descriptive-statistics-)
+      - [Correlation analysis \*️⃣](#correlation-analysis-️⃣)
+      - [Clustering analysis ✨](#clustering-analysis-)
+      - [HR Benefits 👥](#hr-benefits-)
+    - [Conclusions and visualizations 📊](#conclusions-and-visualizations-)
+    - [Project summary 📋](#project-summary-)
+    - [License 🧾](#license-)
 
 ## Team members 👥
 ★ Ryan Jabłoński
