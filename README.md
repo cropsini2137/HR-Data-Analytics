@@ -110,7 +110,37 @@ By identifying distinct groups within the community, the project aims to improve
 
 ### Conclusions and visualizations 📊
 
+**Bar plot** presents percentage values for each type of the participancy in the data community. 
 
+
+**Boxplots** represent range of surveyees' abilities
+
+
+**Combo plots** display the same data with simpler visualization
+
+
+**Correlation plot** visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
+
+
+**Dendogram** images the hierarchical clustering of various data competencies. 
+
+
+**Stacked column plot** represents distribution of respondents prowess. The one below shows selected 15 most popular skills.
+
+
+**Word cloud** clusters skills of surveyees and visually aid to differentiate the most popular ones from the least popular ones.
+
+
+**PCA analysis** groups data into categories.
+
+
+**Violin plots** illustrate the distribution of proficiency levels across different clusters for various competencies. Each plot combines a box plot and a density plot, showing the range, median, and distribution shape of proficiency scores within each cluster.
+
+
+**Heatmap** represents the data and surveyees' abilities.
+
+
+**Grouping tool** is used to sort surveyees in the optimal way using the parameters selected by a user.
 
 ### Project summary 📋
 
