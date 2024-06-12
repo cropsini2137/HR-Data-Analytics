@@ -123,7 +123,7 @@ This heatmap visualizes **missing values** in the dataset. There are significant
 ![histogramsy](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/23225e00-3d29-463c-a2cb-d8008c6c0a56)
 
 **Correlation plot** visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
-![kolerkejesyzn](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/fc176b8b-adca-4699-8336-078056086ef9)
+![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e4760483-7bd9-4678-a6f0-736f3d861664)
 
 **Dendogram** images the hierarchical clustering of various data competencies. 
 ![drzewogram](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/60b6d45a-7296-4bde-8b70-edff4f4d4c48)
