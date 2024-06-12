@@ -125,4 +125,3 @@ It also covered some basic forms of scientific approach to data in forms of: **c
 ### License 🧾
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
-
