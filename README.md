@@ -116,10 +116,10 @@ In columns: not all are useful enough for analysis and some are very empty.
 
 In rows: because of incomplete surveys - they would skew results of the analysis. 
 
-![missing](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/1dcaf219-fa28-47a4-9f9a-4d5afb3c74b3)
+![missing](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f6012d97-24d1-463a-8e18-bc3d64f2eb3e)
 
 **Bar plot** presents percentage values for each type of the participancy in the data community. 
-![activity_type](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/15358707-bf3b-46c7-bfbc-ea5ae0486d9d)
+![activity_type](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/6082143c-b323-469f-9de3-e138c00970c0)
 
 **Boxplots** represent range of surveyees' abilities
 ![boxplots](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/c1c682ae-c321-4a64-b8ab-9a396ca5c42f)
@@ -128,31 +128,28 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 ![histogramsy](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/23225e00-3d29-463c-a2cb-d8008c6c0a56)
 
 **Correlation plot** visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
-![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e4760483-7bd9-4678-a6f0-736f3d861664)
+![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/b169000e-8d07-44f8-bf53-d8d5b16161f7)
 
 **Elbow method** shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
-![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/22fc5561-3bf2-4abb-b554-f2850bfe41df)
+![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/5d792b5c-34ee-467f-af20-a549f45e7c25)
 
 **Dendrogram** images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
-![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/9c8153ef-3824-4642-a4b8-287017de2e94)
+![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/23ab7ae2-80b5-4796-ad4d-1f9c84aa73ca)
 
 **Stacked column plot** represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
-![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f8524e05-adb9-4699-8344-fedb66e76614)
+![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/8c7cf56c-d03d-4eca-a131-1319a806f4b6)
 
 The plot below represents top 15 skills, including only responses from 2 to 4.
-![top_skills_column_lot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/dc5f012f-eda8-4965-89ff-76e0ccecaf37)
-
-**Word cloud** clusters skills of surveyees and visually aid to differentiate the most popular ones from the least popular ones.
-![wordcloud](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/33fcb9a5-3f2e-47ae-a802-be66da8da34e)
+![top_skills_column_lot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0949458c-dff2-4cfe-b08a-c1dc7ddc9fb3)
 
 **PCA analysis** groups data into categories. 
-![pca](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/2ac73b14-c95d-4e01-97f0-9ffcc9c9471c)
+![pca_analysis](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/84e56001-eb8b-439a-bf28-471b54a109f9)
 
 **Violin plots** illustrate the distribution of proficiency levels across different clusters for various competencies. Each plot combines a box plot and a density plot, showing the range, median, and distribution shape of proficiency scores within each cluster.
-![violin_plots](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/b3ce5dad-f0e0-4993-818c-947774fee18e)
+![violin_plots](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/39038887-673e-417e-bb16-c47ebac27044)
 
 **Heatmap** represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
-![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f648ae39-e20a-42e5-b5d1-e2794de5ac81)
+![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0de2f311-fbcd-47a1-b1aa-be10dbdc129f)
 
 **Grouping tool** is used to sort surveyees in the optimal way using the parameters selected by a user.
 
