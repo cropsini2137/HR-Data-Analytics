@@ -110,7 +110,7 @@ By identifying distinct groups within the community, the project aims to improve
 
 ### Conclusions and visualizations 📊
 
-This heatmap visualizes **missing values** in the original dataset. There are significant portions of missing values across several columns/rows, with some having more gaps than the others. We dealt with them by removing rows and columns with over 25% data missing. The data with missing values will be irrelevant in context of our analysis. 
+This heatmap visualizes **missing values** in the original dataset. There are significant portions of missing values across several columns/rows, with some having more gaps than the others. We dealt with them by removing rows and columns with over 25% data missing after carefully analyzing the heatmap, consequences of such act and for ease of this process. The data with missing values will be irrelevant in context of our analysis. 
 In columns: not all are useful enough for analysis and some are very empty. 
 In rows: because of incomplete surveys - they would skew results of the analysis. 
 Deleted rows and columns would not bring any positive impact on the accuracy of further outcomes.
