@@ -134,7 +134,7 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 ![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/22fc5561-3bf2-4abb-b554-f2850bfe41df)
 
 **Dendrogram** images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
-![drzewogram](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/60b6d45a-7296-4bde-8b70-edff4f4d4c48)
+![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/9c8153ef-3824-4642-a4b8-287017de2e94)
 
 **Stacked column plot** represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
 ![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f8524e05-adb9-4699-8344-fedb66e76614)
@@ -151,7 +151,7 @@ The plot below represents top 15 skills, including only responses from 2 to 4.
 **Violin plots** illustrate the distribution of proficiency levels across different clusters for various competencies. Each plot combines a box plot and a density plot, showing the range, median, and distribution shape of proficiency scores within each cluster.
 ![violin_plots](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/b3ce5dad-f0e0-4993-818c-947774fee18e)
 
-**Heatmap** represents the data and surveyees' abilities. This visualization was splitted in the project into skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
+**Heatmap** represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f648ae39-e20a-42e5-b5d1-e2794de5ac81)
 
 **Grouping tool** is used to sort surveyees in the optimal way using the parameters selected by a user.
