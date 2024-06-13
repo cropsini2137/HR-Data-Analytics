@@ -146,7 +146,7 @@ The plot below represents top 15 skills, including only responses from 2 to 4.
 ![wordcloud](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/33fcb9a5-3f2e-47ae-a802-be66da8da34e)
 
 **PCA analysis** groups data into categories.
-![klasta](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/87c9b8b3-06ba-4c37-a0c2-47b302fb461d)
+![pca](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/2ac73b14-c95d-4e01-97f0-9ffcc9c9471c)
 
 **Violin plots** illustrate the distribution of proficiency levels across different clusters for various competencies. Each plot combines a box plot and a density plot, showing the range, median, and distribution shape of proficiency scores within each cluster.
 ![violin_plots](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/b3ce5dad-f0e0-4993-818c-947774fee18e)
