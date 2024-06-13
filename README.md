@@ -145,13 +145,13 @@ The plot below represents top 15 skills, including only responses from 2 to 4.
 **Word cloud** clusters skills of surveyees and visually aid to differentiate the most popular ones from the least popular ones.
 ![wordcloud](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/33fcb9a5-3f2e-47ae-a802-be66da8da34e)
 
-**PCA analysis** groups data into categories.
+**PCA analysis** groups data into categories. 
 ![pca](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/2ac73b14-c95d-4e01-97f0-9ffcc9c9471c)
 
 **Violin plots** illustrate the distribution of proficiency levels across different clusters for various competencies. Each plot combines a box plot and a density plot, showing the range, median, and distribution shape of proficiency scores within each cluster.
 ![violin_plots](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/b3ce5dad-f0e0-4993-818c-947774fee18e)
 
-**Heatmap** represents the data and surveyees' abilities.
+**Heatmap** represents the data and surveyees' abilities. This visualization was splitted in the project into skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f648ae39-e20a-42e5-b5d1-e2794de5ac81)
 
 **Grouping tool** is used to sort surveyees in the optimal way using the parameters selected by a user.
