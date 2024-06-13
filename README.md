@@ -151,7 +151,7 @@ The plot below represents top 15 skills, including only responses from 2 to 4.
 **Heatmap** represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0de2f311-fbcd-47a1-b1aa-be10dbdc129f)
 
-**Grouping tool** is used to sort surveyees in the optimal way using the parameters selected by a user.
+**Grouping tool** is used to sort surveyees in the optimal way using the parameters selected by a user. Below there is a usage example.
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e27b87fd-2d8c-47e4-8d01-3ec12c1aa329)
 
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/461393a5-8fc2-47b6-84ac-b7cc480018ec)
