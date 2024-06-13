@@ -130,13 +130,13 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 **Correlation plot** visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
 ![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e4760483-7bd9-4678-a6f0-736f3d861664)
 
-**Elbow method** shows the optimal k value for clustering, essential before plotting a dendrogram.
+**Elbow method** shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
 ![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/22fc5561-3bf2-4abb-b554-f2850bfe41df)
 
-**Dendrogram** images the hierarchical clustering of various data competencies. 
+**Dendrogram** images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
 ![drzewogram](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/60b6d45a-7296-4bde-8b70-edff4f4d4c48)
 
-**Stacked column plot** represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses.
+**Stacked column plot** represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
 ![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f8524e05-adb9-4699-8344-fedb66e76614)
 
 The plot below represents top 15 skills, including only responses from 2 to 4.
