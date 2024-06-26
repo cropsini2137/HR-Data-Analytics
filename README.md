@@ -121,14 +121,8 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 **Bar plot** presents percentage values for each type of the participancy in the data community. 
 ![activity_type](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/6082143c-b323-469f-9de3-e138c00970c0)
 
-**Boxplots** represent range of surveyees' abilities
-![boxplots](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/c1c682ae-c321-4a64-b8ab-9a396ca5c42f)
-
-**Combo plots** display the same data with simpler visualization
-![histogramsy](https://github.com/cropsini2137/ProjektAnalitiks/assets/159359001/23225e00-3d29-463c-a2cb-d8008c6c0a56)
-
 **Correlation plot** visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
-![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/b169000e-8d07-44f8-bf53-d8d5b16161f7)
+![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d538d343-f1c5-4dcf-b47f-194703d4bc96)
 
 **Elbow method** shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
 ![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0f24c206-eac3-4b73-854c-a98d40bd3f6f)
