@@ -9,7 +9,7 @@ import numpy as np
 from matplotlib.patches import Patch
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='.')
 
 # Load the dataset
 data = pd.read_csv(r'C:\Users\rejen\OneDrive\Documents\GitHub\ProjektAnalitiks\data\03_Processed\cleaned_data.csv')
