@@ -131,10 +131,7 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 ![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f3609c5e-cda6-4554-abb4-d96b86894dca)
 
 **Stacked column plot** represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
-![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/8c7cf56c-d03d-4eca-a131-1319a806f4b6)
-
-The plot below represents top 15 skills, including only responses from 2 to 4.
-![top_skills_column_lot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0949458c-dff2-4cfe-b08a-c1dc7ddc9fb3)
+![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d3955537-007f-4e5b-999c-9e2bd4340499)
 
 **Heatmap** represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0de2f311-fbcd-47a1-b1aa-be10dbdc129f)
