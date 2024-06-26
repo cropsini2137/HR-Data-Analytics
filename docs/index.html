@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skill Grouping Tool</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .container {
+            margin-top: 20px;
+        }
+        .skill-category {
+            margin-bottom: 15px;
+        }
+        .category-title {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Skill Grouping Tool</h1>
+        <form id="skill-form">
+            <div id="categories">
+                {% for category, skills in categories.items() %}
+                <div class="skill-category">
+                    <div class="category-title">{{ category }}</div>
+                    <div class="form-check">
+                        <input class="form-check-input select-all" type="checkbox" value="{{ category }}">
+                        <label class="form-check-label">Select all</label>
+                    </div>
+                    {% for skill in skills %}
+                    <div class="form-check">
+                        <input class="form-check-input skill-checkbox" type="checkbox" name="skills" value="{{ skill }}">
+                        <label class="form-check-label">{{ skill }}</label>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+            </div>
+            <div class="form-group">
+                <label for="min_group_size">Min. group size:</label>
+                <input type="number" class="form-control" id="min_group_size" name="min_group_size" value="2">
+            </div>
+            <div class="form-group">
+                <label for="max_group_size">Max. group size:</label>
+                <input type="number" class="form-control" id="max_group_size" name="max_group_size" value="4">
+            </div>
+            <div class="form-group">
+                <label for="min_4_0_answers">Min. 4.0 answers:</label>
+                <input type="number" class="form-control" id="min_4_0_answers" name="min_4_0_answers" value="2">
+            </div>
+            <div class="form-group">
+                <label for="min_threshold">Min. threshold:</label>
+                <input type="number" class="form-control" id="min_threshold" name="min_threshold" value="1.0" step="0.1">
+            </div>
+            <div class="form-group">
+                <label for="clustering_option">Clustering option:</label>
+                <select class="form-control" id="clustering_option" name="clustering_option">
+                    <option value="Agglomerative">Agglomerative</option>
+                    <option value="K-means">K-means</option>
+                    <option value="DB-SCAN">DB-SCAN</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="n_clusters">Number of clusters (for K-means):</label>
+                <input type="number" class="form-control" id="n_clusters" name="n_clusters" value="4">
+            </div>
+            <div class="form-group">
+                <label for="metric">Metric (for Agglomerative):</label>
+                <select class="form-control" id="metric" name="metric">
+                    <option value="euclidean">Euclidean</option>
+                    <option value="l1">L1</option>
+                    <option value="l2">L2</option>
+                    <option value="manhattan">Manhattan</option>
+                    <option value="cosine">Cosine</option>
+                    <option value="precomputed">Precomputed</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="linkage">Linkage (for Agglomerative):</label>
+                <select class="form-control" id="linkage" name="linkage">
+                    <option value="ward">Ward</option>
+                    <option value="complete">Complete</option>
+                    <option value="average">Average</option>
+           

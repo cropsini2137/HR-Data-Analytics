@@ -131,7 +131,7 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 ![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/b169000e-8d07-44f8-bf53-d8d5b16161f7)
 
 **Elbow method** shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
-![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/5d792b5c-34ee-467f-af20-a549f45e7c25)
+
 
 **Dendrogram** images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
 ![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/23ab7ae2-80b5-4796-ad4d-1f9c84aa73ca)
@@ -141,12 +141,6 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 
 The plot below represents top 15 skills, including only responses from 2 to 4.
 ![top_skills_column_lot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0949458c-dff2-4cfe-b08a-c1dc7ddc9fb3)
-
-**PCA analysis** groups data into categories. 
-![pca_analysis](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/84e56001-eb8b-439a-bf28-471b54a109f9)
-
-**Violin plots** illustrate the distribution of proficiency levels across different clusters for various competencies. Each plot combines a box plot and a density plot, showing the range, median, and distribution shape of proficiency scores within each cluster.
-![violin_plots](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/39038887-673e-417e-bb16-c47ebac27044)
 
 **Heatmap** represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0de2f311-fbcd-47a1-b1aa-be10dbdc129f)
