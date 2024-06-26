@@ -131,10 +131,10 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 ![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/b169000e-8d07-44f8-bf53-d8d5b16161f7)
 
 **Elbow method** shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
-
+![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0f24c206-eac3-4b73-854c-a98d40bd3f6f)
 
 **Dendrogram** images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
-![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/23ab7ae2-80b5-4796-ad4d-1f9c84aa73ca)
+![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f3609c5e-cda6-4554-abb4-d96b86894dca)
 
 **Stacked column plot** represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
 ![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/8c7cf56c-d03d-4eca-a131-1319a806f4b6)
@@ -146,9 +146,9 @@ The plot below represents top 15 skills, including only responses from 2 to 4.
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0de2f311-fbcd-47a1-b1aa-be10dbdc129f)
 
 **Grouping tool** is used to group surveyees in the optimal way using the parameters selected by a user. This process can be utilized to generate different propositions on what members to choose into a specific project. Below there is an example of such grouping.
-![alt text](image-1.png)
+![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e717d9e5-0bf5-41ba-8da7-a3d178b4b129)
 
-![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/461393a5-8fc2-47b6-84ac-b7cc480018ec)
+![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/929b15c2-5af7-4572-98d7-5d1074045622)
 
 ### Project summary 📋
 
