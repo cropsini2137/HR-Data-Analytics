@@ -119,7 +119,7 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 ![missing](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f6012d97-24d1-463a-8e18-bc3d64f2eb3e)
 
 **Bar plot** presents percentage values for each type of the participancy in the data community. 
-![activity_type](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/6082143c-b323-469f-9de3-e138c00970c0)
+![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0fa33a7b-23ef-462f-9d88-65f07b33a6f1)
 
 **Correlation plot** visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
 ![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d538d343-f1c5-4dcf-b47f-194703d4bc96)
