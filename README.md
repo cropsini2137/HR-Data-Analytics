@@ -118,32 +118,39 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 
 ![missing](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/95e12230-ca7e-4190-a9c2-367a3547f4d5)
 
-**Bar plot** 
+#### Bar plot
 Presents percentage values for each type of the participancy in the data community. 
+
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0fa33a7b-23ef-462f-9d88-65f07b33a6f1)
 
-**Correlation plot** 
+#### Correlation plot 
 Visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
+
 ![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d538d343-f1c5-4dcf-b47f-194703d4bc96)
 
-**Elbow method** 
+#### Elbow method
 Shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
+
 ![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0f24c206-eac3-4b73-854c-a98d40bd3f6f)
 
-**Dendrogram** 
+#### Dendrogram 
 Images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
+
 ![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f3609c5e-cda6-4554-abb4-d96b86894dca)
 
-**Stacked column plot** 
+#### Stacked column plot
 Represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
+
 ![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d3955537-007f-4e5b-999c-9e2bd4340499)
 
-**Heatmap** 
+#### Heatmap
 Represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
+
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0de2f311-fbcd-47a1-b1aa-be10dbdc129f)
 
-**Grouping tool** 
+#### Grouping tool
 Used to group surveyees in the optimal way using the parameters selected by a user. This process can be utilized to generate different propositions on what members to choose into a specific project. Below there is an example of such grouping.
+
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e717d9e5-0bf5-41ba-8da7-a3d178b4b129)
 
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/929b15c2-5af7-4572-98d7-5d1074045622)
