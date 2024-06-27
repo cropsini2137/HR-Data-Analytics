@@ -116,7 +116,7 @@ In columns: not all are useful enough for analysis and some are very empty.
 
 In rows: because of incomplete surveys - they would skew results of the analysis. 
 
-![missing](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f6012d97-24d1-463a-8e18-bc3d64f2eb3e)
+![missing](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/95e12230-ca7e-4190-a9c2-367a3547f4d5)
 
 **Bar plot** presents percentage values for each type of the participancy in the data community. 
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0fa33a7b-23ef-462f-9d88-65f07b33a6f1)
