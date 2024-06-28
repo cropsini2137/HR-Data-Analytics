@@ -101,7 +101,7 @@ By identifying distinct groups within the community, the project aims to improve
 
 ### Conclusions and visualizations 📊
 
-[This heatmap](https://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/01_Data_Preprocessing.ipynb#heatmap) visualizes **missing values** in the original dataset. There are significant portions of missing values across several columns/rows, with some having more gaps than the others. We dealt with them by removing rows and columns with over 25% data missing after carefully analyzing the heatmap, consequences of such act and for ease of cleaning process. The data with missing values would be irrelevant in context of our analysis. Deleted rows and columns would not bring any positive impact on the accuracy of further outcomes, due to their emptiness. We could observe such data characteristics:
+[This heatmap](notebooks/01_Data_Preprocessing.ipynb#heatmap) visualizes **missing values** in the original dataset. There are significant portions of missing values across several columns/rows, with some having more gaps than the others. We dealt with them by removing rows and columns with over 25% data missing after carefully analyzing the heatmap, consequences of such act and for ease of cleaning process. The data with missing values would be irrelevant in context of our analysis. Deleted rows and columns would not bring any positive impact on the accuracy of further outcomes, due to their emptiness. We could observe such data characteristics:
 
 In columns: not all are useful enough for analysis and some are very empty. 
 
