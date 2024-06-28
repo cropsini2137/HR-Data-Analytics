@@ -158,16 +158,17 @@ Represents the surveyees' abilities. This visualization was splitted in the proj
 #### Grouping tool
 Used to group surveyees in the optimal way using the parameters selected by a user. This process can be utilized to generate different propositions on what members to choose into a specific project. Below there is an example of such grouping.
 
-**Grouping example** - Best programming group with Azure skills
-**Selection**: Cloud & Databases > Azure, Select all > Programming
-**Sliders**: Min. group size -> 2, Max. group size -> 4, Min. 4.0 answers -> 2, Min. threshold > Not aware, Max. generated groups > 1
-**Clustering**: Agglomerative, Metric -> euclidean, Linkage -> Linear, Distance threshold -> 1.50 
-![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/01e4c7c1-dd7a-4a99-8f87-78546f70b9da)
-
-
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e717d9e5-0bf5-41ba-8da7-a3d178b4b129)
 
-![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/929b15c2-5af7-4572-98d7-5d1074045622)
+**Grouping example** - Best programming group with Azure skills
+
+**Selection**: Cloud & Databases > Azure, Select all > Programming
+
+**Sliders**: Min. group size -> 2, Max. group size -> 4, Min. 4.0 answers -> 2, Min. threshold > Not aware, Max. generated groups > 1
+
+**Clustering**: Agglomerative, Metric -> euclidean, Linkage -> Linear, Distance threshold -> 1.50 
+
+![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/01e4c7c1-dd7a-4a99-8f87-78546f70b9da)
 
 ### Project summary 📋
 
