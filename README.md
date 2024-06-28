@@ -174,13 +174,29 @@ Used to group surveyees in the optimal way using the parameters selected by a us
 
 **Data cleaning** part has made significant changes to the dataset, leaving only rows and columns with non-missing values to ensure quality presentation of data on further stages. This process also helped with uncluttering visualisations that were made on later stages.
 
-In chapter **Exploratory Data Analysis** we performed a series of basic data exploration and visualization techniques. After each analysis there is a visualization and simple summary to present insights that were collected.
+In chapter **Exploratory Data Analysis** 
 
-**Advanced EDA** section covered some advanced techniques for data exploration and visualisation, such as: **heatmap** (for visualising correlation and missing values), **bar charts** and **column charts**, **box-plots**, **scatter plots**, **violin plots**, **stacked column plots**, **line plots** and **dendrogram**. 
+**Advanced EDA** section covered some advanced techniques for data exploration and visualisation, such as: **heatmap** (for visualising correlation and missing values), **bar charts** and **column charts**, **box-plots**, **scatter plots**, **violin plots**, **stacked column plots**, **line plots** and **dendrogram**. We performed a series of basic data exploration and visualization techniques. After each analysis there is a visualization and simple summary to present insights that were collected.
 
 It also covered some basic forms of scientific approach to data in forms of: **clustering**, **outlier detection**, **data imputation**, and **regression analysis**.
 
-Lastly, there is a grouping tool
+Lastly, in notebook **04_Grouping** there is a grouping tool. 
+This methodology not only enhances collaborative efficiency but also maximizes the potential for collective learning and development within each group.
+Tailored for educational and professional purposes, this application stands as a solution for skill-based group formation.
+
+Users can select various IT skills across categories such as Cloud & Databases, Business Intelligence, Programming, Data Science, Industry Knowledge and Soft skills.
+
+Multiple clustering algorithms are available, including **Agglomerative, K-means, and DB-SCAN**.
+
+Users can choose the metric (f.e., Euclidean) and linkage criteria (f.e., single) for the **agglomerative** clustering process.
+
+In case of **k-means** clustering, users can set up random state (default is 42) and number of clusters from 1 to 10.
+
+For **DB-SCAN**, it is possible to change DBSCAN eps and mininum number of samples. 
+
+**eps** metric is the maximum distance between two samples for one to be considered as in the neighborhood of the other. 
+
+min_samples is the number of samples (or total weight) in a neighborhood for a point to be considered as a core point. This includes the point itself. If min_samples is set to a higher value, DBSCAN will find denser clusters, whereas if it is set to a lower value, the found clusters will be more sparse.
 
 ### License 🧾
 
