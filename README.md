@@ -80,16 +80,7 @@ In order to achieve desired insights from the data provided, we decided to use:
 - **VS Code & Git 👨🏻‍💻** - code development and version control integration.
 
 ### Requirements ⚙️
-You can find the requirements.txt file attached in the main repository folder. Here are the essential libraries needed to launch the notebook's content:
-
-ipywidgets==8.0.7​ 
-ipython==8.25.0​ 
-matplotlib==3.6.3 
-numpy==1.24.0
-pandas==1.5.3
-seaborn==0.11.2
-scipy==1.9.3
-scikit-learn==1.1.3
+You can find the requirements.txt file attached in the main repository folder. There are the essential libraries needed to launch the notebook's content.
 
 As a part of analysis, we want to check or implement such parts like:
 
