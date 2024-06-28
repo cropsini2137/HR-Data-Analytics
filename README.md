@@ -191,20 +191,6 @@ is used to group surveyees in the optimal way using the parameters selected by a
 
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/01e4c7c1-dd7a-4a99-8f87-78546f70b9da)
 
-### Project summary 📋
-
-**Data cleaning** part has made significant changes to the dataset, leaving only rows and columns with non-missing values to ensure quality presentation of data on further stages. This process also helped with uncluttering visualisations that were made on later stages.
-
-In chapter **Exploratory Data Analysis** 
-
-**Advanced EDA** section covered some advanced techniques for data exploration and visualisation, such as: **heatmap** (for visualising correlation and missing values), **bar charts** and **column charts**, **box-plots**, **scatter plots**, **violin plots**, **stacked column plots**, **line plots** and **dendrogram**. We performed a series of basic data exploration and visualization techniques. After each analysis there is a visualization and simple summary to present insights that were collected.
-
-It also covered some basic forms of scientific approach to data in forms of: **clustering**, **outlier detection**, **data imputation**, and **regression analysis**.
-
-Lastly, in notebook **04_Grouping** there is a grouping tool. 
-This methodology not only enhances collaborative efficiency but also maximizes the potential for collective learning and development within each group.
-Tailored for educational and professional purposes, this application stands as a solution for skill-based group formation.
-
 Users can select various IT skills across categories such as Cloud & Databases, Business Intelligence, Programming, Data Science, Industry Knowledge and Soft skills.
 
 Multiple clustering algorithms are available, including **Agglomerative, K-means, and DB-SCAN**.
@@ -218,6 +204,20 @@ For **DB-SCAN**, it is possible to change DBSCAN eps and mininum number of sampl
 **eps** metric is the maximum distance between two samples for one to be considered as in the neighborhood of the other. 
 
 min_samples is the number of samples (or total weight) in a neighborhood for a point to be considered as a core point. This includes the point itself. If min_samples is set to a higher value, DBSCAN will find denser clusters, whereas if it is set to a lower value, the found clusters will be more sparse.
+
+### Project summary 📋
+
+**Data cleaning** part has made significant changes to the dataset, leaving only rows and columns with non-missing values to ensure quality presentation of data on further stages. This process also helped with uncluttering visualisations that were made on later stages.
+
+In chapter **Exploratory Data Analysis** 
+
+**Advanced EDA** section covered some advanced techniques for data exploration and visualisation, such as: **heatmap** (for visualising correlation and missing values), **bar charts** and **column charts**, **box-plots**, **scatter plots**, **violin plots**, **stacked column plots**, **line plots** and **dendrogram**. We performed a series of basic data exploration and visualization techniques. After each analysis there is a visualization and simple summary to present insights that were collected.
+
+It also covered some basic forms of scientific approach to data in forms of: **clustering**, **outlier detection**, **data imputation**, and **regression analysis**.
+
+Lastly, in notebook **04_Grouping** there is a grouping tool. 
+This methodology not only enhances collaborative efficiency but also maximizes the potential for collective learning and development within each group.
+Tailored for educational and professional purposes, this application stands as a solution for skill-based group formation.
 
 ### License 🧾
 
