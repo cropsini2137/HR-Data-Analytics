@@ -156,27 +156,27 @@ visualizes similarity between data. Groups of similar skills have been highlight
 ![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d538d343-f1c5-4dcf-b47f-194703d4bc96)
 
 **[Elbow method](https://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L7)**
-Shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
+shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
 
 ![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0f24c206-eac3-4b73-854c-a98d40bd3f6f)
 
 **[Dendrogram](https://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L8)**
-Images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
+images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
 
 ![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f3609c5e-cda6-4554-abb4-d96b86894dca)
 
 **[Stacked column plot](https://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L9)**
-Represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
+represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
 
 ![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d3955537-007f-4e5b-999c-9e2bd4340499)
 
-[Heatmap](https://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L11)
-Represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
+**[Heatmap](https://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L11)**
+represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
 
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0de2f311-fbcd-47a1-b1aa-be10dbdc129f)
 
 **[Grouping tool](https://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L11)**
-Used to group surveyees in the optimal way using the parameters selected by a user. This process can be utilized to generate different propositions on what members to choose into a specific project. Below there is an example of such grouping.
+is used to group surveyees in the optimal way using the parameters selected by a user. This process can be utilized to generate different propositions on what members to choose into a specific project. Below there is an example of such grouping.
 
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e717d9e5-0bf5-41ba-8da7-a3d178b4b129)
 
