@@ -82,9 +82,9 @@ In order to achieve desired insights from the data provided, we decided to use:
 ### Requirements ⚙️
 You can find the requirements.txt file attached in the main repository folder. Here are the essential libraries needed to launch the notebook's content:
 
-ipywidgets==8.0.7​
-ipython==8.25.0​
-matplotlib==3.6.3
+ipywidgets==8.0.7​ 
+ipython==8.25.0​ 
+matplotlib==3.6.3 
 numpy==1.24.0
 pandas==1.5.3
 seaborn==0.11.2
