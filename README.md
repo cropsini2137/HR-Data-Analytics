@@ -160,11 +160,11 @@ Used to group surveyees in the optimal way using the parameters selected by a us
 
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e717d9e5-0bf5-41ba-8da7-a3d178b4b129)
 
-**Grouping example** - Best programming group with Azure skills
+**Grouping example** - Best technically skilled group of 4
 
-**Selection**: Cloud & Databases > Azure, Select all > Programming
+**Selection**: Select all > Programming
 
-**Sliders**: Min. group size -> 2, Max. group size -> 4, Min. 4.0 answers -> 2, Min. threshold > Not aware, Max. generated groups > 1
+**Sliders**: Min. group size -> 4, Max. group size -> 4, Min. 4.0 answers -> 2, Min. threshold > Not aware, Max. generated groups > 1
 
 **Clustering**: Agglomerative, Metric -> euclidean, Linkage -> Linear, Distance threshold -> 1.50 
 
