@@ -67,7 +67,7 @@ We'll employ clustering algorithms to determine the most appropriate method for 
 In order to achieve desired insights from the data provided, we decided to use:
 - **python 🐍** as the primary programming language for data analysis and clustering,
 - **pandas 🐼🐼** - for data manipulation and analysis,
-- **numPy 🔢** - for numerical operations,
+- **numpy 🔢** - for numerical operations,
 - **matplotlib and seaborn 📈📊** - for data visualization,
 - **scikit-learn & scipy 🔬** - for implementing clustering algorithms and evaluation metrics,
 - **ipywidgets** - to create an interface for grouping tool, also utilizing **HTML** and **CSS**,
