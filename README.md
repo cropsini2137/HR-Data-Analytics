@@ -75,6 +75,42 @@ In order to achieve desired insights from the data provided, we decided to use:
 ### Requirements ⚙️
 You can find the requirements.txt file attached in the main repository folder. There are the essential libraries needed to launch the notebook's content.
 
+This project requires strict adherence to the directory and file structure for the program to read and write data correctly. Any changes to the directory structure may prevent the code from functioning properly.
+
+### Folder structure
+
+```markdown
+📂 ProjektAnalitiks/
+├── 📂 data/
+│   ├── 📂 01_Raw/
+│   │   └── 📄 01_DataCompetencySurvey.csv
+│   ├── 📂 02_Interim/
+│   │   ├── 📄 cleaned_data.csv
+│   │   ├── 📄 cleaned_dataset.csv
+│   │   ├── 📄 cleaned.csv
+│   │   ├── 📄 dropped_rows_columns_imputed.csv
+│   │   ├── 📄 dropped_rows_columns.csv
+│   │   └── 📄 rows_with_most_missing_values.csv
+│   └── 📂 03_Processed/
+│       ├── 📄 cleaned_data.csv
+│       └── 📄 data_cleaned.csv
+├── 📂 docs/
+├── 📂 figures/
+├── 📂 models/
+├── 📂 notebooks/
+│   ├── 📂 .ipynb_checkpoints/
+│   └── 📂 steps/
+│       ├── 📄 01_Data_Cleaning.ipynb
+│       ├── 📄 02_Exploratory_Data_Analysis.ipynb
+│       ├── 📄 03_Advanced_EDA.ipynb
+│       └── 📄 04_Grouping.ipynb
+│   ├── 📄 01_Data_Preprocessing.ipynb
+│   └── 📄 02_EDA_and_Grouping.ipynb
+├── 📄 .gitkeep
+├── 📄 .gitignore
+└── 📄 README.md
+```
+
 As a part of analysis, we want to check or implement such parts like:
 
 #### Descriptive statistics 📝
