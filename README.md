@@ -65,11 +65,12 @@ We will start with exploratory data analysis, including descriptive statistics a
 We'll employ clustering algorithms to determine the most appropriate method for segmenting the dataset.
 
 In order to achieve desired insights from the data provided, we decided to use:
-- **Python 🐍** as the primary programming language for data analysis and clustering,
-- **Pandas 🐼🐼** - for data manipulation and analysis,
-- **NumPy 🔢** - for numerical operations,
-- **Matplotlib and Seaborn 📈📊** - for data visualization,
-- **Scikit-learn & Scipy 🔬** - for implementing clustering algorithms and evaluation metrics,
+- **python 🐍** as the primary programming language for data analysis and clustering,
+- **pandas 🐼🐼** - for data manipulation and analysis,
+- **numPy 🔢** - for numerical operations,
+- **matplotlib and seaborn 📈📊** - for data visualization,
+- **scikit-learn & scipy 🔬** - for implementing clustering algorithms and evaluation metrics,
+- **ipywidgets** - to create an interface for grouping tool, also utilizing **HTML** and **CSS**,
 - **VS Code & Git 👨🏻‍💻** - code development and version control integration.
 
 ### Requirements ⚙️
