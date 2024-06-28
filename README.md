@@ -18,6 +18,13 @@ team rzulci vabank 🟨
       - [Clustering analysis ✨](#clustering-analysis-)
       - [HR Benefits 👥](#hr-benefits-)
     - [Conclusions and visualizations 📊](#conclusions-and-visualizations-)
+      - [Bar plot](#bar-plot)
+      - [Correlation plot](#correlation-plot)
+      - [Elbow method](#elbow-method)
+      - [Dendrogram](#dendrogram)
+      - [Stacked column plot](#stacked-column-plot)
+      - [Heatmap](#heatmap)
+      - [Grouping tool](#grouping-tool)
     - [Project summary 📋](#project-summary-)
     - [License 🧾](#license-)
 
@@ -163,7 +170,7 @@ In chapter **Exploratory Data Analysis** we performed a series of basic data exp
 
 **Advanced EDA** section covered some advanced techniques for data exploration and visualisation, such as: **heatmap** (for visualising correlation and missing values), **bar charts** and **column charts**, **box-plots**, **scatter plots**, **violin plots**, **stacked column plots**, **line plots** and **dendrogram**. 
 
-It also covered some basic forms of scientific approach to data in forms of: **clustering**, **outlier detection**, **data imputation**, **PCA** and **regression analysis**.
+It also covered some basic forms of scientific approach to data in forms of: **clustering**, **outlier detection**, **data imputation**, and **regression analysis**.
 
 ### License 🧾
 
