@@ -108,7 +108,7 @@ By identifying distinct groups within the community, the project aims to improve
 
 ### Conclusions and visualizations 📊
 
-This heatmap visualizes **missing values** in the original dataset. There are significant portions of missing values across several columns/rows, with some having more gaps than the others. We dealt with them by removing rows and columns with over 25% data missing after carefully analyzing the heatmap, consequences of such act and for ease of cleaning process. The data with missing values would be irrelevant in context of our analysis. Deleted rows and columns would not bring any positive impact on the accuracy of further outcomes, due to their emptiness. We could observe such data characteristics:
+[This heatmap](httpshttps://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/01_Data_Preprocessing.ipynb#L6) visualizes **missing values** in the original dataset. There are significant portions of missing values across several columns/rows, with some having more gaps than the others. We dealt with them by removing rows and columns with over 25% data missing after carefully analyzing the heatmap, consequences of such act and for ease of cleaning process. The data with missing values would be irrelevant in context of our analysis. Deleted rows and columns would not bring any positive impact on the accuracy of further outcomes, due to their emptiness. We could observe such data characteristics:
 
 In columns: not all are useful enough for analysis and some are very empty. 
 
@@ -116,37 +116,37 @@ In rows: because of incomplete surveys - they would skew results of the analysis
 
 ![missing](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/fd406a5b-2eb0-4846-b7d7-b7ba3ead8368)
 
-#### Bar plot
+[Bar plot](httpshttps://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L5)
 Presents percentage values for each type of the participancy in the data community. 
 
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0fa33a7b-23ef-462f-9d88-65f07b33a6f1)
 
-#### Correlation plot 
+[Correlation plot](httpshttps://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L6) 
 Visualizes similarity between data. Groups of similar skills have been highlighted and top-right corner with repeating values has been removed for clarity.
 
 ![skill_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d538d343-f1c5-4dcf-b47f-194703d4bc96)
 
-#### Elbow method
+[Elbow method](httpshttps://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L7)
 Shows the optimal k value for clustering, which is essential to know before plotting a dendrogram. In this case both k=3 and k=4 are fine, but we decided to go with k=4.
 
 ![elbow_method](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0f24c206-eac3-4b73-854c-a98d40bd3f6f)
 
-#### Dendrogram 
+[Dendrogram](httpshttps://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L8) 
 Images the hierarchical clustering of various data competencies. We can easily observe a split into hard skills and soft skills.
 
 ![tree](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/f3609c5e-cda6-4554-abb4-d96b86894dca)
 
-#### Stacked column plot
+[Stacked column plot](httpshttps://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L9)
 Represents distribution of respondents' skills. It is sorted descendingly based on a sum of 3.0 and 4.0 responses to reveal which skills are the most often.
 
 ![stacked_column_plot](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/d3955537-007f-4e5b-999c-9e2bd4340499)
 
-#### Heatmap
+[Heatmap](httpshttps://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L11)
 Represents the surveyees' abilities. This visualization was splitted in the project into smaller skill groups to improve the readability. This approach helps in noticing which respondents are confident in their skills in respective skill groups.
 
 ![respondents_skills_heatmap](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/0de2f311-fbcd-47a1-b1aa-be10dbdc129f)
 
-#### Grouping tool
+[Grouping tool](httpshttps://github.com/cropsini2137/ProjektAnalitiks/blob/main/notebooks/02_EDA_and_Grouping.ipynb#L11)
 Used to group surveyees in the optimal way using the parameters selected by a user. This process can be utilized to generate different propositions on what members to choose into a specific project. Below there is an example of such grouping.
 
 ![image](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/e717d9e5-0bf5-41ba-8da7-a3d178b4b129)
