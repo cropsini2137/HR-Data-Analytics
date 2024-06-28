@@ -183,7 +183,7 @@ is used to group surveyees in the optimal way using the parameters selected by a
 
 **Grouping example** - Best technically skilled group of 4
 
-**Selection**: Select all > Programming
+**Selection**: Select "Technical skills"
 
 **Sliders**: Min. group size -> 4, Max. group size -> 4, Min. 4.0 answers -> 2, Min. threshold > Not aware, Max. generated groups > 1
 
