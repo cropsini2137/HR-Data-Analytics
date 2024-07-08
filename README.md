@@ -3,6 +3,8 @@ team rzulci vabank 🟨
 
 ![DALL·E 2024-05-31 00 03 16 - A vibrant logo featuring a wealthy culturist pope  The pope should have a muscular build similar to a bodybuilder, wearing traditional papal attire wi](https://github.com/cropsini2137/ProjektAnalitiks/assets/52826998/ea3a6ee4-3bdd-4100-afdd-f68bfa2f386f)
 
+![](https://komarev.com/ghpvc/?username=prod-rejent)
+
 ## Project contents
 
 - [HR Data Analytics](#hr-data-analytics)
