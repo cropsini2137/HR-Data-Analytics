@@ -61,19 +61,8 @@ A significant objective is to develop participants' skills in using tools such a
 
 ### Requirements and methodology 📚
 
-To achieve the project's objectives, we will employ various data analysis and clustering techniques, which are essential in extracting valuable insights from the dataset.
-We will start with exploratory data analysis, including descriptive statistics and visualisation techniques.
-
-We'll employ clustering algorithms to determine the most appropriate method for segmenting the dataset.
-
-In order to achieve desired insights from the data provided, we decided to use:
-- **python 🐍** as the primary programming language for data analysis and clustering,
-- **pandas 🐼🐼** - for data manipulation and analysis,
-- **numpy 🔢** - for numerical operations,
-- **matplotlib and seaborn 📈📊** - for data visualization,
-- **scikit-learn & scipy 🔬** - for implementing clustering algorithms and evaluation metrics,
-- **ipywidgets** - to create an interface for grouping tool, also utilizing **HTML** and **CSS**,
-- **VS Code & Git 👨🏻‍💻** - code development and version control integration.
+To achieve the project's objectives, we will employ various data analysis and clustering techniques, which are essential in extracting valuable insights from the dataset. We will start with exploratory data analysis, including descriptive statistics and visualisation techniques.
+Later on we'll employ clustering algorithms to determine the most appropriate method for segmenting the dataset.
 
 ### Requirements ⚙️
 You can find the requirements.txt file attached in the main repository folder. There are the essential libraries needed to launch the notebook's content.
