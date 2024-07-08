@@ -119,7 +119,7 @@ As a part of analysis, we want to check or implement such parts like:
 
 **Hierarchical clustering** - hierarchical clustering was used to visualize how respondents can be grouped based on skill similarities.
 
-Other scientific techniques used in this project are **Regression modelling**, **Data imputation**, and **PCA analysis**.
+Other scientific techniques used in this project are **DB-SCAN**, **Regression modelling**, **Data imputation**, and **PCA analysis**.
 
 #### HR Benefits 👥
 
